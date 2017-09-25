@@ -312,7 +312,6 @@ void j1App::Save() const
 {
 	saving = false;
 
-	loading = false;
 	p2List_item<j1Module*>* item;
 	item = modules.start;
 	j1Module* pModule = NULL;
