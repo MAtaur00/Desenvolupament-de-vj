@@ -1,5 +1,6 @@
 ﻿  j1Map.cpp
-c:\users\marctu\desktop\dev_class7.8_handout\motor2d\j1map.cpp(239): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-c:\users\marctu\desktop\dev_class7.8_handout\motor2d\j1map.cpp(240): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-  Motor2D.vcxproj -> C:\Users\marctu\Desktop\Dev_class7.8_handout\Debug\Dev Class7.8 Handout.exe
-  Motor2D.vcxproj -> C:\Users\marctu\Desktop\Dev_class7.8_handout\Debug\Dev Class7.8 Handout.pdb (Partial PDB)
+c:\users\marc tarrés urbieta\documents\github\desenvolupament-de-vj\dev_class7.8_handout\motor2d\j1map.cpp(90): warning C4018: '<': no coinciden signed/unsigned
+c:\users\marc tarrés urbieta\documents\github\desenvolupament-de-vj\dev_class7.8_handout\motor2d\j1map.cpp(271): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\marc tarrés urbieta\documents\github\desenvolupament-de-vj\dev_class7.8_handout\motor2d\j1map.cpp(272): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+  Motor2D.vcxproj -> C:\Users\Marc Tarrés Urbieta\Documents\GitHub\Desenvolupament-de-vj\Dev_class7.8_handout\Debug\Dev Class7.8 Handout.exe
+  Motor2D.vcxproj -> C:\Users\Marc Tarrés Urbieta\Documents\GitHub\Desenvolupament-de-vj\Dev_class7.8_handout\Debug\Dev Class7.8 Handout.pdb (Partial PDB)
